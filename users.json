@@ -1,0 +1,14 @@
+{
+    "mock_student": {
+        "hash":"$argon2id$v=19$m=65536,t=3,p=4$MNdUtJjsysCNSMP4R76X9w$HOJR9govob53FoWB2ZRabfTfm05xtK9xjTYD51e8nEg",
+        "role": "Student"},
+    "mock_admin": {
+        "hash":"$argon2id$v=19$m=65536,t=3,p=4$aqAp/PQykQzyih/j3acAKw$uA9aylA4EefQcqQWwhkQ/RsAhIgzuur6zxeeUQDARms",
+        "role": "Admin"},
+    "mock_lecturer": {
+        "hash": "$argon2id$v=19$m=65536,t=3,p=4$zlOM9K2oSH9T27FlhVkBhA$ssgxnxfEv2/RKIlbULpB7/PD0wCI7dbugFwsO7V5/Gw",
+        "role": "Lecturer"}
+}
+
+
+

@@ -1,0 +1,66 @@
+[27-04-2026 00:12:42] User: mock_lecturer | Action: Login and mfa successful
+[27-04-2026 00:12:42] User: mock_lecturer | Action: Login Successful - Role: Lecturer
+[27-04-2026 00:20:24] User: System | Action: Application Shutdown
+[27-04-2026 00:20:26] User: System | Action: Application Shutdown
+[27-04-2026 21:19:42] User: mock_admin | Action: Failed Login Attempt
+[27-04-2026 21:19:50] User: mock_admin | Action: Failed Login Attempt
+[27-04-2026 21:20:17] User: mock_admin | Action: Login and MFA Successful - Role: Admin
+[27-04-2026 21:20:43] User: mock_admin | Action: Performed system key rotation
+[27-04-2026 22:00:29] User: mock_lecturer | Action: Failed Login Attempt
+[27-04-2026 22:00:34] User: password456 | Action: Failed Login Attempt
+[27-04-2026 22:00:49] User: mock_admin | Action: mfa failure
+[27-04-2026 22:01:07] User: mock_admin | Action: Login and MFA Successful - Role: Admin
+[27-04-2026 22:01:07] User: mock_admin | Action: Login Successful - Role: Admin
+[27-04-2026 22:01:09] User: mock_admin | Action: Performed system key rotation
+[28-04-2026 02:16:08] User: mock_admin | Action: Modified grade for student: mock_student
+[28-04-2026 02:16:10] User: System | Action: Application Shutdown
+[28-04-2026 02:16:11] User: System | Action: Application Shutdown
+[28-04-2026 02:16:44] User: mock_student | Action: Login and MFA Successful - Role: Student
+[28-04-2026 02:16:44] User: mock_student | Action: Login Successful - Role: Student
+[29-04-2026 03:59:10] User: mock_student | Action: mfa failure
+[29-04-2026 04:08:00] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:04] User: uidsaibd | Action: Failed Login Attempt
+[29-04-2026 04:08:05] User: System | Action: Application Shutdown
+[29-04-2026 04:08:15] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:21] User: mock_studen | Action: Failed Login Attempt
+[29-04-2026 04:08:29] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:33] User: System | Action: Application Shutdown
+[29-04-2026 04:08:44] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:48] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:52] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:55] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:08:59] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:09:04] User: mock_student | Action: Login Attempt - Account Locked
+[29-04-2026 04:09:17] User: System | Action: Application Shutdown
+[29-04-2026 04:40:39] User: mock_lecturer | Action: Failed Login Attempt
+[29-04-2026 04:40:58] User: mock_lecturer | Action: Login and MFA Successful - Role: Lecturer
+[29-04-2026 04:40:58] User: mock_lecturer | Action: Login Successful - Role: Lecturer
+[29-04-2026 04:41:01] User: mock_lecturer | Action: Data Integrity Failure
+[29-04-2026 04:42:27] User: mock_lecturer | Action: Login and MFA Successful - Role: Lecturer
+[29-04-2026 04:42:27] User: mock_lecturer | Action: Login Successful - Role: Lecturer
+[29-04-2026 04:42:30] User: mock_lecturer | Action: Decrypted and viewed grades
+[29-04-2026 04:52:38] User: System | Action: Application Shutdown
+[29-04-2026 04:52:42] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:52:45] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:52:50] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:52:54] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:52:56] User: mock_student | Action: Failed Login Attempt
+[29-04-2026 04:53:00] User: mock_student | Action: Login Attempt - Account Locked
+[29-04-2026 04:53:04] User: mock_student | Action: Login Attempt - Account Locked
+[29-04-2026 04:54:11] User: System | Action: Application Shutdown
+[29-04-2026 04:54:26] User: mock_student | Action: mfa failure
+[29-04-2026 04:57:29] User: mock_lecturer | Action: Login and MFA Successful - Role: Lecturer
+[29-04-2026 04:57:29] User: mock_lecturer | Action: Login Successful - Role: Lecturer
+[29-04-2026 04:57:33] User: mock_lecturer | Action: Decrypted and viewed grades
+[29-04-2026 04:57:42] User: mock_lecturer | Action: Modified grade for student: mock_student
+[29-04-2026 04:57:51] User: mock_lecturer | Action: Decrypted and viewed grades
+[29-04-2026 04:58:05] User: System | Action: Application Shutdown
+[29-04-2026 04:58:14] User: mock_student | Action: Login and MFA Successful - Role: Student
+[29-04-2026 04:58:14] User: mock_student | Action: Login Successful - Role: Student
+[29-04-2026 04:59:58] User: mock_admin | Action: Login and MFA Successful - Role: Admin
+[29-04-2026 04:59:58] User: mock_admin | Action: Login Successful - Role: Admin
+[29-04-2026 05:00:04] User: mock_admin | Action: Performed system key rotation
+[29-04-2026 05:00:30] User: mock_admin | Action: Performed system key rotation
+[29-04-2026 05:04:20] User: System | Action: Application Shutdown
+[29-04-2026 05:04:23] User: System | Action: Application Shutdown
+[29-04-2026 05:04:42] User: Unknown | Action: Failed Login Attempt
